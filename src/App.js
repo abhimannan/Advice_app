@@ -1,8 +1,8 @@
-import Adviceapp from './Adviceapp.js';
+import Bmicalculator from './Bmicalculator.js';
 function App() {
   return (
     <div className="App">
-        <Adviceapp />
+        <Bmicalculator />
     </div>
   );
 }
